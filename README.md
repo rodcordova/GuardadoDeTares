@@ -28,5 +28,5 @@ Se utiliza [mysql] como base de datos para almacenar la información .
 
 Posee una navegacion donde se puede elegir las diferentes opciones 
 
-<img src="https://github.com/rodcordova/GuardadoDeTares/blob/master/images/interfaz.png"  height=300>
+<img src="https://github.com/rodcordova/GuardadoDeTares/tree/master/images/interfaz.png"  height=300>
 </p>
